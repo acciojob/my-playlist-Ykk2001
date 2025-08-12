@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.player_one{
+background-color:rgb(255,255,255);
+border-radius:2px;
+margin:10px;
+width:630px;
+}
+.player_two{
+	width:630px;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.unorder{
+	border:2px solid black;
+	background-color:white;
+	border-radius:5px;
+}
